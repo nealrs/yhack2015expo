@@ -1,3 +1,6 @@
+#!/usr/bin/python
+#-*- mode: python -*-
+
 import csv
 import json
 import os
