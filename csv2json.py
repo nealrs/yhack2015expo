@@ -21,5 +21,5 @@ finally:
 print json.dumps(d)
 
 #with open('data/'+sys.argv[1]+'.json', 'w') as j:
-with open('data/data.json', 'w') as j:
+with open('data/json', 'w') as j:
     json.dump(d, j)
